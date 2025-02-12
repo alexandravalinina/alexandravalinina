@@ -1,13 +1,10 @@
 ## Hi there 👋
 
-
-
-<div>
-    <a href="#"><img align="left" width="400" alt="Languages" src="metrics.svg"></a>
-    <a href="#"><img align="right" width="400" alt="Achievements" src="metrics.plugin.achievements.compact.svg"></a>
-    <a href="#"><img align="right" width="400" alt="Achievements more" src="metrics.plugin.achievements.svg"></a>
+<div style="display: flex; align-items: flex-start; gap: 10;">
+    <img src="etrics.svg" alt="Languages" style="width: 400; align="left"/>
+    <img src="metrics.plugin.achievements.compact.svg" alt="Achievements" style="width: 400; align="right"/>
+    <img src="metrics.plugin.achievements.svg" alt="Achievements more" style="width: 400; align="right"/>
 </div>
-
 
 
 ## Social contacts and CV
