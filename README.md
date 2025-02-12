@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-<img src="metrics.svg" alt="Languages" style="width: 400px; height: left"/>
-<img src="metrics.plugin.achievements.compact.svg" alt="Achievements" style="width: 400px; height: right"/>
+[<img align="left" width="400" alt="Languages" src="metrics.svg">](#)
+[<img align="right" width="400" alt="Achievements" src="metrics.plugin.achievements.compact.svg">](#)
