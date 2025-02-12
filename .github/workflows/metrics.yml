@@ -54,7 +54,7 @@ jobs:
           user: alexandravalinina
           base: ""
           plugin_achievements: yes
-          plugin_achievements_only: polyglot, developer, automator
+          plugin_achievements_only: polyglot, developer, stargazer
 
 
 
