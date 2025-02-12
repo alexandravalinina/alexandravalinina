@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div style="display: flex; align-items: flex-start; gap: 10;">
+<div style="display: flex;">
     <img src="metrics.svg" alt="Languages" style="width: 400px; align="left"/>
     <img src="metrics.plugin.achievements.compact.svg" alt="Achievements" style="width: 400px; align="right"/>
     <img src="metrics.plugin.achievements.svg" alt="Achievements more" style="width: 400px; align="right"/>
