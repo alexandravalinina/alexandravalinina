@@ -2,8 +2,8 @@
 
 <div style="display: flex;">
     <img src="metrics.svg" alt="Languages" style="width: 400px; align="left"/>
-    <img src="metrics.plugin.achievements.compact.svg" alt="Achievements" style="width: 400px; align="right""/>
-    <img src="metrics.plugin.achievements.svg" alt="Achievements more" style="width: 400px; align="right""/>
+    <img src="metrics.plugin.achievements.compact.svg" alt="Achievements" style="width: 400px; align="right height: auto; vertical-align: top;"/>
+    <img src="metrics.plugin.achievements.svg" alt="Achievements more" style="width: 400px; align="right"/>
 </div>
 
 
