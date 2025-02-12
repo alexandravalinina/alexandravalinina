@@ -1,9 +1,13 @@
 ## Hi there 👋
-<div>
+<div style="display: flex;">
     [<img align="left" width="400" alt="Languages" src="metrics.svg">](#)
     [<img align="right" width="400" alt="Achievements" src="metrics.plugin.achievements.compact.svg">](#)
     [<img align="right" width="400" alt="Achievements more" src="metrics.plugin.achievements.svg">](#)
 </div>
+
+
+
+
 
 ## Social contacts and CV
 <div align="left"> 
