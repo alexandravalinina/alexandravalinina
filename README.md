@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div style="display: flex; align-items: flex-start; gap: 10px;">
+<div>
     [<img align="left" width="400" alt="Languages" src="metrics.svg">](#)
     [<img align="right" width="400" alt="Achievements" src="metrics.plugin.achievements.compact.svg">](#)
     [<img align="right" width="400" alt="Achievements more" src="metrics.plugin.achievements.svg">](#)
